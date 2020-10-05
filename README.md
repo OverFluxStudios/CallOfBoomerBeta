@@ -1,5 +1,5 @@
 # Call Of Boomer Open Beta
-# DISCONTINUED (See commit notes for further info)
+# CoB Reboot in progress!
 A simple FPS written in C# and made with Unity.
 
 Found a vulnerability? Head over to SECURITY.md to found out more about reporting it.
